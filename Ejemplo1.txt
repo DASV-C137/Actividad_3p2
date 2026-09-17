@@ -1,0 +1,5 @@
+A: Hola a todos, ¿vieron la película de Home?
+B: Si, es genial.
+C: Tremendo bodrio, -100/10
+D: No la vi, pero la veré la siguiente semana.
+A: Deja de ladrar C.
